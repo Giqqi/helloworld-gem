@@ -1,4 +1,4 @@
-# HelloWorld
+# Hello World gem
 
 This is my first gem I build. I uploaded it just for me to document my work. Feel free to fork it ;o)
 
@@ -18,4 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-In your app you can type <%= HelloWorld.hello %> to output the "Hello World" text.
+In your app you can type
+
+		<%= HelloWorld.hello %>
+
+to output the "Hello World" text.
