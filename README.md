@@ -1,6 +1,6 @@
 # HelloWorld
 
-TODO: Write a gem description
+This is my first gem I build. I uploaded it just for me to document my work. Feel free to fork it ;o)
 
 ## Installation
 
@@ -18,12 +18,4 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+In your app you can type <%= HelloWorld.hello %> to output the "Hello World" text.
