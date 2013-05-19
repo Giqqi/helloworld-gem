@@ -20,6 +20,6 @@ Or install it yourself as:
 
 In your app you can type
 
-		<%= HelloWorld.hello %>
+    <%= HelloWorld.hello %>
 
 to output the "Hello World" text.
